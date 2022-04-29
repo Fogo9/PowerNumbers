@@ -1,14 +1,14 @@
 # **POWER NUMBERS**
 
-# Information
+## INFORMATION
 
 * **Base and power numbers are determined and exponentiation is done.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **a**, **b**, **total**, **i** and **value** are defined with int.
 
@@ -16,9 +16,7 @@
 
 * The exponentiation calculation was performed using the recursive method.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -77,13 +75,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/PowerNumbers.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
